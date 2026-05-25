@@ -41,20 +41,11 @@
 ## ⚠️ Legal Disclaimer
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>🔴 FOR AUTHORIZED USE ONLY 🔴</strong><br />
-        This software is designed exclusively for:<br />
-        • Cybersecurity training in controlled environments<br />
-        • Security awareness workshops with explicit consent<br />
-        • Penetration testing with written authorization<br />
-        • Academic research in information security<br /><br />
-        <strong>UNAUTHORIZED USE IS ILLEGAL AND UNETHICAL</strong><br />
-        The developer assumes NO liability for misuse of this tool.
-      </td>
-    </tr>
-  </table>
+
+| | |
+|:-:|:-:|
+| <strong>🔴 FOR AUTHORIZED USE ONLY 🔴</strong><br />This software is designed exclusively for:<br />• Cybersecurity training in controlled environments<br />• Security awareness workshops with explicit consent<br />• Penetration testing with written authorization<br />• Academic research in information security<br /><br /><strong>UNAUTHORIZED USE IS ILLEGAL AND UNETHICAL</strong><br />The developer assumes NO liability for misuse of this tool. | |
+
 </div>
 
 ---
